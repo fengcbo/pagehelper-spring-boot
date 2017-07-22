@@ -1,0 +1,4 @@
+rootProject.name = 'pagehelper-spring-boot'
+include 'pagehelper-spring-boot-autoconfigure'
+include 'pagehelper-spring-boot-starter'
+
